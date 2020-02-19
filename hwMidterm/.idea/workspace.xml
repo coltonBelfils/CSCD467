@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc530e00-efe7-4f47-81c2-ac950cea1e41" name="Default Changelist" comment="" />
+    <list default="true" id="dc530e00-efe7-4f47-81c2-ac950cea1e41" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../awsTest/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../awsTest/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../awsTest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../awsTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../awsTest/awsTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../awsTest/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../awsTest/src/main/java/S3Sample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hwMidterm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hwMidterm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapitalizeServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CapitalizeServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Capitalizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Capitalizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ParallelClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ParallelClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThreadManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThreadManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThreadPool.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +30,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1XRezLw2Q5vPboIDnx7GfrBzoWY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,19 +42,55 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/src/Libraries/aws-java-sdk-1.11.715" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../awsTest" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Global Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\BelfilsColton\Desktop\CSCD467\hwMidterm\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CapitalizeServer">
+    <configuration name="CapitalizeClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CapitalizeClient" />
+      <module name="hwMidterm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CapitalizeServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CapitalizeServer" />
+      <module name="hwMidterm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParallelClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ParallelClient" />
+      <module name="hwMidterm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CapitalizeServer" />
+        <item itemvalue="Application.ParallelClient" />
+        <item itemvalue="Application.CapitalizeClient" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -47,7 +103,8 @@
       <option name="presentableId" value="Default" />
       <updated>1581013595507</updated>
       <workItem from="1581013598751" duration="776000" />
-      <workItem from="1581216879379" duration="5297000" />
+      <workItem from="1581216879379" duration="26013000" />
+      <workItem from="1582052449486" duration="9345000" />
     </task>
     <servers />
   </component>
@@ -55,13 +112,108 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="286" y="254" key="#com.intellij.ide.util.MemberChooser" timestamp="1581220953188">
+    <state x="65" y="199" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581465454866">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="286" y="254" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1581220953188" />
-    <state x="656" y="366" key="com.intellij.ide.util.TipDialog" timestamp="1581216895367">
+    <state x="65" y="199" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1581465454866" />
+    <state x="391" y="249" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1581465452880">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="656" y="366" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1581216895367" />
+    <state x="391" y="249" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1581465452880" />
+    <state x="286" y="254" key="#com.intellij.ide.util.MemberChooser" timestamp="1581462160460">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="286" y="254" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1581462160460" />
+    <state x="1198" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1581460395441">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1198" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1581460395441" />
+    <state x="340" y="291" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581460471022">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="340" y="291" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1581460471022" />
+    <state x="717" y="245" key="#xdebugger.evaluate" timestamp="1582067159208">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="717" y="245" key="#xdebugger.evaluate/0.0.1920.1080@0.0.1920.1080" timestamp="1582067159208" />
+    <state width="439" height="466" key="DebuggerActiveHint" timestamp="1582066936136">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="439" height="466" key="DebuggerActiveHint/0.0.1920.1080@0.0.1920.1080" timestamp="1582066936136" />
+    <state x="386" y="328" key="DetectedRootsChooserDialog" timestamp="1581483904639">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="386" y="328" key="DetectedRootsChooserDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1581483904639" />
+    <state x="334" y="354" key="FileChooserDialogImpl" timestamp="1581486172885">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="334" y="354" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1581486172885" />
+    <state width="1864" height="293" key="GridCell.Tab.0.bottom" timestamp="1582071369444">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1864" height="293" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1582071369444" />
+    <state width="1864" height="293" key="GridCell.Tab.0.center" timestamp="1582071369443">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1864" height="293" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1582071369443" />
+    <state width="1864" height="293" key="GridCell.Tab.0.left" timestamp="1582071369443">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1864" height="293" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1582071369443" />
+    <state width="1864" height="293" key="GridCell.Tab.0.right" timestamp="1582071369444">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1864" height="293" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1582071369444" />
+    <state width="1864" height="265" key="GridCell.Tab.1.bottom" timestamp="1582070824036">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1864" height="265" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1582070824036" />
+    <state width="1864" height="265" key="GridCell.Tab.1.center" timestamp="1582070824035">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1864" height="265" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1582070824035" />
+    <state width="1864" height="265" key="GridCell.Tab.1.left" timestamp="1582070824035">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1864" height="265" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1582070824035" />
+    <state width="1864" height="265" key="GridCell.Tab.1.right" timestamp="1582070824036">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1864" height="265" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1582070824036" />
+    <state x="111" y="187" key="SettingsEditor" timestamp="1581535567362">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="111" y="187" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1581535567362" />
+    <state x="656" y="366" key="com.intellij.ide.util.TipDialog" timestamp="1582052452988">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="656" y="366" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1582052452988" />
+    <state x="523" y="278" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1582069834923">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="523" y="278" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1080@0.0.1920.1080" timestamp="1582069834923" />
+    <state x="653" y="138" width="613" height="804" key="find.popup" timestamp="1582069216314">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="653" y="138" width="613" height="804" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1582069216314" />
+    <state x="34" y="165" key="new project wizard" timestamp="1581486256693">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="34" y="165" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1581486256693" />
+    <state x="272" y="240" width="672" height="678" key="search.everywhere.popup" timestamp="1582069182574">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="272" y="240" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1582069182574" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ThreadManager.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
